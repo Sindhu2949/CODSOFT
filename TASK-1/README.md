@@ -124,9 +124,4 @@ This project demonstrates:
 
 The final model successfully predicts movie genres from textual descriptions using classical ML techniques.
 
----
-
-## 👤 Author
-
-Your Name  
-Machine Learning Intern  
+--- 
