@@ -24,4 +24,3 @@ The dataset used for training contains large text samples which simulate handwri
 
 Dataset Source: Hugging Face
 
-File Used:
